@@ -1,0 +1,2 @@
+# learning_linear_regression_and_gradient_descent
+learning and practice purpose.
